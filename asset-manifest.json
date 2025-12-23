@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.20ddee50.js",
+    "main.js": "/portfolio/static/js/main.90104127.js",
     "static/media/a_klavye_1.png": "/portfolio/static/media/a_klavye_1.355ed96fd344a0a1f45f.png",
     "static/media/a_araba_1.png": "/portfolio/static/media/a_araba_1.dca0a02374226e740de5.png",
     "static/media/a_kakashi_5.png": "/portfolio/static/media/a_kakashi_5.8d1538d28de58bea1d07.png",
@@ -52,9 +52,9 @@
     "static/media/r_tshirt_1.jpeg": "/portfolio/static/media/r_tshirt_1.49914bba85751a5ff498.jpeg",
     "static/media/r_tshirt_2.jpeg": "/portfolio/static/media/r_tshirt_2.0032cfead16fb0d9b869.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.20ddee50.js.map": "/portfolio/static/js/main.20ddee50.js.map"
+    "main.90104127.js.map": "/portfolio/static/js/main.90104127.js.map"
   },
   "entrypoints": [
-    "static/js/main.20ddee50.js"
+    "static/js/main.90104127.js"
   ]
 }
