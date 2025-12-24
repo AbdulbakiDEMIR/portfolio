@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.ada5dd5b.js",
+    "main.js": "/portfolio/static/js/main.7c154ce0.js",
     "static/media/a_klavye_1.png": "/portfolio/static/media/a_klavye_1.355ed96fd344a0a1f45f.png",
     "static/media/a_cube_1.png": "/portfolio/static/media/a_cube_1.f8a54a0a07334eade48a.png",
     "static/media/a_araba_1.png": "/portfolio/static/media/a_araba_1.dca0a02374226e740de5.png",
@@ -11,7 +11,6 @@
     "static/media/a_gamepad_4.png": "/portfolio/static/media/a_gamepad_4.fb26b86c410a79d14596.png",
     "static/media/a_tespih_2.png": "/portfolio/static/media/a_tespih_2.8d804234d1ceea4953ed.png",
     "static/media/a_kakashi_2.png": "/portfolio/static/media/a_kakashi_2.fde673a55355269e67fb.png",
-    "static/media/a_gamepad_1.png": "/portfolio/static/media/a_gamepad_1.d98d88c6c0f653a44a1f.png",
     "static/media/a_cube_2.png": "/portfolio/static/media/a_cube_2.f864c5d341a27d4bd431.png",
     "static/media/a_klavye_7.png": "/portfolio/static/media/a_klavye_7.f7331c33017493b43b2c.png",
     "static/media/a_kakashi_4.png": "/portfolio/static/media/a_kakashi_4.fe16cf3a4d0b020fa6db.png",
@@ -19,23 +18,24 @@
     "static/media/a_forma_3.png": "/portfolio/static/media/a_forma_3.ce48e6571c8a9f3904ba.png",
     "static/media/a_cube_3.png": "/portfolio/static/media/a_cube_3.6b593968a89a8ab10d54.png",
     "static/media/a_klavye_4.png": "/portfolio/static/media/a_klavye_4.3fd009e601c1284ed551.png",
+    "static/media/a_kakashi_3.png": "/portfolio/static/media/a_kakashi_3.6ec9c8e641fafbd1a222.png",
     "static/media/a_tshirt_3.png": "/portfolio/static/media/a_tshirt_3.dd8ba0f02c3bc9d98d79.png",
     "static/media/a_tespih_1.png": "/portfolio/static/media/a_tespih_1.7265310ba6f1763678b3.png",
     "static/media/a_gamepad_3.png": "/portfolio/static/media/a_gamepad_3.9d64a2e33e8f22e1fceb.png",
     "static/media/a_gamepad_2.png": "/portfolio/static/media/a_gamepad_2.4a3d81e279ffb817eb61.png",
     "static/media/a_ttts_1.png": "/portfolio/static/media/a_ttts_1.b281125c58e540cfdd53.png",
-    "static/media/a_mouse_1.png": "/portfolio/static/media/a_mouse_1.356f5d1d4d921dad620b.png",
     "static/media/a_mouse_4.png": "/portfolio/static/media/a_mouse_4.a2ff2753f4b036f0530c.png",
     "static/media/a_ajanda_2.png": "/portfolio/static/media/a_ajanda_2.6a095bb431b3231aa434.png",
     "static/media/a_mouse_3.png": "/portfolio/static/media/a_mouse_3.578317cdad7782783774.png",
-    "static/media/a_kakashi_3.png": "/portfolio/static/media/a_kakashi_3.32884d45f3fef717e1cb.png",
+    "static/media/a_mouse_1.png": "/portfolio/static/media/a_mouse_1.54ffed719ac767e73f86.png",
+    "static/media/a_gamepad_1.png": "/portfolio/static/media/a_gamepad_1.446f9ea2ebb335887241.png",
     "static/media/a_mutfak_2.png": "/portfolio/static/media/a_mutfak_2.540c947081d26aa7900c.png",
     "static/media/a_mouse_2.png": "/portfolio/static/media/a_mouse_2.a9959d4d793b82fa003e.png",
     "static/media/a_mouse_6.png": "/portfolio/static/media/a_mouse_6.292550d70777274a5929.png",
     "static/media/a_parfum_3.png": "/portfolio/static/media/a_parfum_3.fa6160c846674ddbf024.png",
     "static/media/a_gk_3.png": "/portfolio/static/media/a_gk_3.9929e9f4cb0e3a39578f.png",
+    "static/media/a_kulaklik_3.png": "/portfolio/static/media/a_kulaklik_3.ea03c4f4284d9038e41e.png",
     "static/media/a_klavye_2.png": "/portfolio/static/media/a_klavye_2.a698fcb0d865f671e2ef.png",
-    "static/media/a_kulaklik_3.png": "/portfolio/static/media/a_kulaklik_3.3995a1034285aba79c57.png",
     "static/media/a_mutfak_4.png": "/portfolio/static/media/a_mutfak_4.ff6e511e516c140a49c3.png",
     "static/media/a_mutfak_3.png": "/portfolio/static/media/a_mutfak_3.6de30f9f8d638d1018b8.png",
     "static/media/a_parfum_2.png": "/portfolio/static/media/a_parfum_2.f8bae398ac3155d682aa.png",
@@ -82,9 +82,9 @@
     "static/media/r_mouse_3.jpeg": "/portfolio/static/media/r_mouse_3.e1df1c216c503d72e4aa.jpeg",
     "static/media/r_kulaklik_1.jpeg": "/portfolio/static/media/r_kulaklik_1.7b6db15540891167477f.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.ada5dd5b.js.map": "/portfolio/static/js/main.ada5dd5b.js.map"
+    "main.7c154ce0.js.map": "/portfolio/static/js/main.7c154ce0.js.map"
   },
   "entrypoints": [
-    "static/js/main.ada5dd5b.js"
+    "static/js/main.7c154ce0.js"
   ]
 }
